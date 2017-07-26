@@ -1,0 +1,163 @@
+#wrapper {
+  margin-top: 10px;
+  width: 1080px;
+  height: 1413px;
+  background-color: black;
+  border: 10px solid #2c2c2d;
+}
+.logo {
+  margin-left: 20px;
+  margin-bottom: 0px;
+
+}
+h1{
+  color: white;
+  margin-left: 590px;
+  font-size: 18px;
+  display: inline-block;
+  margin-right: 20px;
+  vertical-align: top;
+}
+#container{
+  background-color: #2c2c2d;
+  width: 1079px;
+  height: 640px;
+  }
+
+#container a {
+  font-size: 22px;
+  padding-left: 17px;
+  padding-right: 17px;
+  text-decoration: none;
+  border-radius: 5px;
+  color: silver;
+  padding-bottom: 15px;
+  background: linear-gradient(grey,grey,black);
+  }
+
+.mainpic {
+  width: 1079px;
+  height: 442px;
+  border: 10px, solid,grey;
+  margin-top: 0px;
+  vertical-align: top;
+}
+.content{
+  width: 25px;
+  height: 25px;
+  vertical-align: top;
+  margin-top: 25px;
+  margin-left: 15px;
+  border-color: inherit;
+}
+h2 {
+  color: orange;
+  font-size: 18px;
+  margin: 5px;
+  padding-right: 5px;
+}
+#container p {
+color: white;
+font-size: 13px;
+height: 80px;
+display: inline-block;
+width: 100px;
+}
+#ridi, #content ,#tellus ,#sem {
+  display: inline-block;
+  padding-right: 5px;
+  width: 150px;
+  height: 80px;
+  margin-top: 25px;
+  margin-left: 30px;
+  vertical-align: top;
+}
+h3{
+  color: white;
+  width: 550px;
+  font-weight: lighter;
+  margin-left: 35px;
+  font-size:23px;
+  margin-top: 43px;
+  margin-bottom: 9px;
+  display: inline-block;
+}
+#center p {
+  color: white;
+  width: 550px;
+  margin-left: 37px;
+  margin-top: 10px;
+}
+#center a{
+  background-color: orange;
+  font-size: 22px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-right: 10px;
+  margin-left: 970px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+
+}
+#center{
+  display: inline-block;
+  vertical-align: top;
+  background-clip: border-box;
+}
+#bottom{
+  background-color: #2c2c2d;
+  width: 1079px;
+  height: 520px;
+  margin-top: 15px;
+  }
+h4 {
+  color: White;
+  font-size: 23px;
+  padding-right: 150px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+#portfolio1, #portfolio2, #portfolio3, #portfolio4{
+  display: inline-block;
+  width: 230px;
+  height: 80px;
+  margin-left: 10px;
+  margin-top: 20px;
+
+}
+#bottom a {
+  color: orange;
+  font-size: 17px;
+  text-decoration: none;
+  vertical-align: top;
+  margin-left: 850px;
+
+}
+h5 {
+  color: orange;
+  font-size: 19px;
+  font-weight: bold;
+  margin-left: 35px;
+}
+#bottom p {
+  color: white;
+  width: 210px;
+  display: inline-block;
+  height: 120px;
+  margin-left: 45px;
+}
+.portfolio1,.portfolio2,.portfolio3, .portfolio4 {
+  margin-left: 30px;
+  padding-left: 10px;
+  border: 1px solid grey;
+  width: 215px;
+}
+h6{
+  margin-left: 990px;
+  font-size: 9px;
+  margin-bottom: 2px;
+  margin-right: 3px;
+  color: grey;
+}
